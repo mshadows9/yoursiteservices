@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Your Site Services
 
 You can use the [editor on GitHub](https://github.com/mshadows9/yoursiteservices.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 

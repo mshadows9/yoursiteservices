@@ -26,7 +26,7 @@
     <div class="jumbotron">
       <div class="container">
         <div class="container">
-        <h1>CareerFoundry Template</h1>
+        <h1>YSS Core Template</h1>
         <p>Sample Data Space.</p>
 
       </div><!-- /container -->

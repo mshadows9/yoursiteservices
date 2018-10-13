@@ -1,12 +1,10 @@
-<!DOCTYPE html>
+
 <html lang="en">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-
-    <title>Hello World!</title>
 
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
@@ -29,13 +27,13 @@
       <div class="container">
         <div class="container">
         <h1>CareerFoundry Template</h1>
-        <p>This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
+        <p>Sample Data Space.</p>
 
       </div><!-- /container -->
         </div><!-- /conatiner -->
     </div><!-- /jumbotron -->
     <div class="container">
-      <h1> Mike Hoffman, Webmaster</h1>
+      <h1> Mshadows, Webmaster</h1>
       <p><strong>Serving all you webmaster and internet needs</strong></p> 
     </div>  
     <div class="container">

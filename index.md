@@ -11,7 +11,7 @@
 
 
     <!-- Custom styles for this template go here -->
-    background-color: #fefbd8;
+   
     
 
 
@@ -41,18 +41,18 @@
       <!-- Example row of columns -->
       <div class="row">
         <div class="col-md-4">
-          <h2>Heading</h2>
-          <p>Website Building</p>
+          <h2>Website Building</h2>
+          <p></p>
           <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div><!-- /col -->
         <div class="col-md-4">
-          <h2>Heading</h2>
-          <p>Code Review</p>
+          <h2>Code Review</h2>
+          <p></p>
           <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
        </div><!-- /col -->
         <div class="col-md-4">
-          <h2>Heading</h2>
-          <p>Image Repository</p>
+          <h2>Image Repository</h2>
+          <p></p>
           <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div><!-- /col -->
       </div><!-- /row -->
